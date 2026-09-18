@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//题目链接：https://leetcode.cn/problems/minimize-malware-spread-ii/description/?__cf_chl_tk=71oqfX.degcwuLoHkp3p433HhdZyu4k6Pgp2I3qJfdQ-1789699972-1.0.1.1-SYNwh7nJL.DvkLwZ8Ky2BNKb5mJsQGmlF1saTlHeXQg
 public class 带标签的并查集 {
 
     public int[] fa,cnt,yt;
